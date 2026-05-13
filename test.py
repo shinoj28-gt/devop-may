@@ -1,2 +1,2 @@
-    printt"hello world")
+    print("hello world")
 print("today is scm poll test")
